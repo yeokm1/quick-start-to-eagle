@@ -5,3 +5,6 @@ My slides are available on slideshare using the picture link below.
 
 [![My slides on slideshare](images/first-slide.png)](http://www.slideshare.net/yeokm1/quick-start-to-cadsoft-eagle)
 
+
+The content of this talk is a [reduced version of a completed class](https://github.com/yeokm1/intro-to-pcb-design-eagle) I gave before.
+
